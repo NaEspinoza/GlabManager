@@ -42,23 +42,22 @@ Se ha implementado un límite de profundidad para evitar el desbordamiento de pi
 
 1. **Clonar el repositorio:**
 ```bash
-git clone https://github.com/tu-usuario/gitlab-architect-cli.git
-cd gitlab-architect-cli
+git clone https://github.com/NaEspinoza/GlabManager.git
+cd GlabManager
 
 ```
 
 
 2. **Instalar dependencias:**
 ```bash
-pip install python-gitlab rich
+pip install -r requirements.txt
 
 ```
 
 
 3. **Configurar variables de entorno:**
 ```bash
-export GITLAB_PRIVATE_TOKEN='tu_token_aqui'
-export GITLAB_URL='https://gitlab.com' # O tu instancia self-hosted
+Ver archivo .env y configurar
 
 ```
 
