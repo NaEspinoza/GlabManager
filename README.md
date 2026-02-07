@@ -60,6 +60,12 @@ pip install -r requirements.txt
 Ver archivo .env y configurar
 
 ```
+	O en la terminal:
+```bash
+export GITLAB_PRIVATE_TOKEN='tu_token_aqui'
+export GITLAB_URL='https://gitlab.com' # O tu instancia self-hosted
+
+```
 
 
 
