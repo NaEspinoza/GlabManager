@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls /mnt/c/Users/nazar/OneDrive/Documentos/Cxde/GlabManager/*.py)",
+      "Bash(mkdir -p /mnt/c/Users/nazar/OneDrive/Documentos/Cxde/GlabManager/core /mnt/c/Users/nazar/OneDrive/Documentos/Cxde/GlabManager/modules)",
+      "Bash(touch /mnt/c/Users/nazar/OneDrive/Documentos/Cxde/GlabManager/core/__init__.py /mnt/c/Users/nazar/OneDrive/Documentos/Cxde/GlabManager/modules/__init__.py)"
+    ]
+  }
+}
